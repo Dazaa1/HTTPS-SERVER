@@ -1,0 +1,4 @@
+templates/
+*.pem
+*.key
+*.csr
