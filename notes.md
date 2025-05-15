@@ -1,8 +1,8 @@
 # Building an http server in python
 
 ## Basic usage:
-- it waits for requests from the client as an example (GOOGLE CHROME), servers files as an example as a response.
-- it can handle only one request at the time or even handle more.
+- it waits for requests from the client, and give back a response.
+- it can handle one or more requests at the time.
 
 ## ```http.server``` module:
 - This module defines classes for implementing HTTP servers.
